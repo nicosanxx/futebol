@@ -1,0 +1,10 @@
+D:\Exercicios logica\futebol\bin\Debug\futebol.exe.config
+D:\Exercicios logica\futebol\bin\Debug\futebol.exe
+D:\Exercicios logica\futebol\bin\Debug\futebol.pdb
+D:\Exercicios logica\futebol\obj\Debug\futebol.csproj.AssemblyReference.cache
+D:\Exercicios logica\futebol\obj\Debug\futebol.Form1.resources
+D:\Exercicios logica\futebol\obj\Debug\futebol.Properties.Resources.resources
+D:\Exercicios logica\futebol\obj\Debug\futebol.csproj.GenerateResource.cache
+D:\Exercicios logica\futebol\obj\Debug\futebol.csproj.CoreCompileInputs.cache
+D:\Exercicios logica\futebol\obj\Debug\futebol.exe
+D:\Exercicios logica\futebol\obj\Debug\futebol.pdb
